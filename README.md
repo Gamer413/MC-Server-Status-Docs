@@ -1,2 +1,2 @@
-# NaviumMC-Status-Wiki
-A Wiki for NaviumMC Status Discord Bot
+# MCStatus Bot
+A Wiki for MCStatus Bot Discord Bot
