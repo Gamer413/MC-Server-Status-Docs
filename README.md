@@ -1,2 +1,2 @@
-# MCStatus Bot
-A Wiki for MCStatus Bot Discord Bot
+# MC-Server-Status 
+A Wiki for MC-Server-Status bot
