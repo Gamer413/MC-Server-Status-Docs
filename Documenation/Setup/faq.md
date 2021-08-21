@@ -2,7 +2,7 @@
 
 ## How do I invite MCServer Status Bot to my server?
 
-You will need **`Manage Server`** or **`Administrator`** permissions to invite MCServer Status Bot. Use this [Discord Oauth URL](https://discord.com/api/oauth2/authorize?client_id=878374018099597392&permissions=3072&scope=bot) to invite the bot.
+You will need **`Manage Server`** or **`Administrator`** permissions to invite MCServer Status Bot. Use this [Discord Oauth URL](https://discord.com/api/oauth2/authorize?client_id=878374018099597392&permissions=18432&scope=bot) to invite the bot.
 
 ## What is the default prefix and how can I change it?
 
