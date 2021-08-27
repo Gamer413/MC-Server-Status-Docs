@@ -8,8 +8,6 @@ If you are here to invite MCServer Status bot, please refer to setup.md to get i
 
 If you would like to suggest some features, report an issue/bug or need support, follow the following links
 
-Create an [issue](https://github.com/MCServerStatus/MC-Server-Status-Docs/issues)
-
 Join our support [Discord](https://discord.gg/jWFB56RqUN)
 
 ## Features
